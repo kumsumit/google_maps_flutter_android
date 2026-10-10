@@ -28,6 +28,9 @@ plugins {
 kotlin {
     compilerOptions {
         jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_21
+    }
+}
+
 android {
     namespace = "io.flutter.plugins.googlemaps"
     compileSdk = 37
