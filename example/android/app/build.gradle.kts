@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "io.flutter.plugins.googlemapsexample"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 37
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_21
