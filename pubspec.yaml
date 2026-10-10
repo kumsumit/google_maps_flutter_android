@@ -21,7 +21,8 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_plugin_android_lifecycle: ^2.0.1
+  flutter_plugin_android_lifecycle:
+    git: https://github.com/kumsumit/flutter_plugin_android_lifecycle.git
   google_maps_flutter_platform_interface:
     git: https://github.com/kumsumit/google_maps_flutter_platform_interface.git
   meta: ^1.19.0
